@@ -33,6 +33,7 @@ import org.hipparchus.exception.MathIllegalArgumentException;
  */
 public interface UnivariateDifferentiableFunction extends UnivariateFunction {
 
+
     /**
      * Compute the value for the function.
      * @param x the point for which the function value should be computed
